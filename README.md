@@ -1,7 +1,7 @@
 # Prova de programação
 
 1.	Criar formulário com os seguintes campos: 
-  a.	Nome (campo texto)
+  a.	Nome (campo texto) <br>
   b.	E-mail (campo e-mail)
   c.	Tipo de documento (dropdown list)
     i.	CPF (deve ser feita a validação do CPF para que não sejam aceitos números inválidos)
